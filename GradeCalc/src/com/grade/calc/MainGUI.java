@@ -90,7 +90,7 @@ public class MainGUI {
 		                grade += (weight * (percentage / 100));
 		            }
 		        //
-		        msgBox("Your results should be recorded as A to F\n"
+		        msgBox("Results will be recorded as A to F\n"
 		                                          + "C or better is a passing grade\n\n"
 		                                          + "Passing grades:\n"
 		                                          + "A+     90% to 100%\n"
