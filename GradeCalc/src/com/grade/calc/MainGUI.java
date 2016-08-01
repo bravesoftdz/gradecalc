@@ -49,7 +49,7 @@ public class MainGUI {
 	private void initialize() {
 		frmGradeCalculatorweltec = new JFrame();
 		frmGradeCalculatorweltec.setResizable(false);
-		frmGradeCalculatorweltec.setTitle("Grade Calculator v1.0");
+		frmGradeCalculatorweltec.setTitle("Grade Calculator");
 		frmGradeCalculatorweltec.setBounds(100, 100, 375, 336);
 		frmGradeCalculatorweltec.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmGradeCalculatorweltec.getContentPane().setLayout(null);
