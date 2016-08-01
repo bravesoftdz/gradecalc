@@ -75,7 +75,7 @@ public class MainGUI {
 		        float grade = 0;
 		        float weight;
 		        //
-		        for (int i = 0; i < 14; i++)
+		        for (int i = 0; i < 16; i++)
 		            if (table.getValueAt(i, 0) != null && table.getValueAt(i, 1) != null)
 		            {
 		                String temp = table.getValueAt(i, 1).toString();
