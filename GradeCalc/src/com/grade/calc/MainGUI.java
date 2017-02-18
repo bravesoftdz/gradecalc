@@ -1,3 +1,26 @@
+/*
+ Name             : MainGUI.java
+ Author           : Clement Campagna
+ Version          : 0.1
+ Copyright        : Under MIT (X11) License - Copyright 2016 Clement Campagna
+ Description      : GradeCalcJava is a simple grade calculator written in Java which takes the weighting 
+                    of marks into account before provided a final score.
+ Requirements     : No particular requirements
+ Usage            : java -jar GradeCalcJava.jar
+ Tested in        : Linux Mint 18.1 / Microsoft Windows 7
+ Author's Website : https://clementcampagna.net
+
+ Licensed under the MIT License, Version X11 (the "License"); you may not use this file except
+ in compliance with the License. You may obtain a copy of the License at
+
+ https://opensource.org/licenses/MIT
+
+ Unless required by applicable law or agreed to in writing, software distributed under the
+ License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+ either express or implied.  See the License for the specific language governing permissions and
+ limitations under the License.
+*/
+
 package com.grade.calc;
 
 import java.awt.EventQueue;
